@@ -18,9 +18,7 @@ Welcome to my collection of beginner coding projects! This repository serves as 
 ## 🛠️ What I'm Learning
 * Writing clean, readable code
 * Version control with Git and GitHub
-* [Add other skills you are practicing, e.g., DOM manipulation, basic algorithms]
 
 ---
 
-## 📬 Contact
-Feel free to check out my GitHub profile or reach out if you have feedback or suggestions!
+
